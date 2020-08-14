@@ -1,0 +1,21 @@
+{
+  "name": "integra-twitter-bot",
+  "version": "0.2.0",
+  "description": "Integra sample twitter bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "integra"
+  ],
+  "author": "Nitesh Kaushik",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^5.0.1",
+    "mongoose": "^5.7.5",
+    "twit": "^2.2.9"
+  }
+}
